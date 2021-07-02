@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durgachikkala-programmer
 - 👀 I’m interested in ...Machine learning
-- 🌱 I’m currently learning ...Frontend development
+- 🌱 I’m currently learning ...App development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...insta@durga__chikkala
 
