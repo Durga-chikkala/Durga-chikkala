@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Durgachikkala-programmer
+- 👋 Hi, This is Durga
 - 👀 I’m interested in ...Machine learning
 - 🌱 I’m currently learning ...App development
 - 💞️ I’m looking to collaborate on ...App Development
