@@ -4,6 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgachikkala-programmer" alt="durgachikkala-programmer" /></a> </p>
 <hr/>
+
 - 🔭 I’m currently working on **Let's Focus**
 
 - 🌱 I’m currently learning **Machine Learning**
